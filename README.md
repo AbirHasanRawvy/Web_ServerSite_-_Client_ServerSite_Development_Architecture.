@@ -1,1 +1,1 @@
-# Web_ServerSite_Client_Site_Development_Architecture.
+# Web_ServerSite_ClientSite_Development_Architecture.
